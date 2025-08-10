@@ -1,4 +1,4 @@
-Codes nmepata ni hizi ......... # Payroll Program - CAT ONE
+# Payroll Program - CAT ONE
 # Password Protected
 
 # Step 1: Password Protection
